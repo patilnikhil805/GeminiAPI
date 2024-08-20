@@ -4,7 +4,7 @@ Gemini Clone is a React-based project designed to replicate the functionality of
 
 ## Live Demo
 
-Check out the live website: [Gemini](gemini-api-ashy-pi.vercel.app)
+Check out the live website: [Gemini](https://gemini-api-ashy-pi.vercel.app)
 
 ## Table of Contents
 
