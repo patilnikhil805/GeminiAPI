@@ -2,6 +2,10 @@
 
 Gemini Clone is a React-based project designed to replicate the functionality of the Google Gemini AI chatbot, leveraging the Google Gemini API for enhanced conversational interactions.
 
+## Live Demo
+
+Check out the live website: [Gemini](gemini-api-ashy-pi.vercel.app)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
